@@ -1,0 +1,11 @@
+.panel-footer, .panel-heading	{
+
+font-size: 20px;
+	color: white;
+	background-color: #4C688B;
+	margin-right: 5px;
+	margin-bottom: 8.93%;
+	padding-bottom: 1.5%;
+	border-radius: 20px;
+	padding: 2%;
+}

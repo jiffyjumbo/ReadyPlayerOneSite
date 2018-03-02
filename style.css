@@ -1,0 +1,98 @@
+body	{
+	background-image: url("https://wallpapersite.com/images/pages/pic_w/11600.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.navbar-brand  {
+	padding-right:260px;
+	padding-bottom: 140px;
+
+	background-image: url("readymovielogo.jpg");
+}
+
+.weblinks, .active	{
+	font-family: 'Ubuntu Condensed', sans-serif;
+	font-size: 36px;
+	padding-top: 20px;
+	padding-right: 20px;
+}
+
+.well1	{
+	background-image: url(warnerLogo.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	border-color: black;
+}
+
+h2	{
+	font-family: 'Ubuntu Condensed', sans-serif;
+	font-size: 40px;
+	color: white;
+}
+
+h1	{
+	font-family: 'Ubuntu Condensed', sans-serif;
+	font-size: 56px;
+	border-radius: 20px;
+	color: #051B38;
+	background-color: #4C688B;
+}
+
+h3	{
+	font-family: 'Ubuntu Condensed', sans-serif;
+	font-size: 36px;
+	color: white;
+}
+
+footer  {
+
+	font-family: 'Ubuntu Condensed', sans-serif;
+	font-size: 24px;
+	color: white;
+	
+	background-color: black;
+    padding: 10px;
+    margin-top: 300px;
+
+}
+
+.bookpanel	{
+	font-size: 20px;
+	color: white;
+	background-color: black;
+	margin-right: 5px;
+	margin-bottom: 7.93%;
+	
+
+}
+
+.bookimage	{
+	margin-left: 15%;
+	margin-top: 12.5%;
+	margin-bottom: 25%;
+	justify-content: center;
+}
+
+.bookimage:hover {
+	transform:(scale 1.1);
+}
+
+.panel-footer, .panel-heading {
+	font-size: 16px;
+	color: white;
+	background-color: #4C688B;
+	border-radius: 20px;
+	text-align: center;
+	padding-top: 5px;
+
+}
+
+
+.jumbotron	{
+	font-size: 16px;
+	color: white;
+	background-color: #4C688B;
+	border-radius: 20px;
+	padding: 20px;
+}
